@@ -1,0 +1,15 @@
+[project]
+name = "text-fine-tuning"
+version = "0.1.0"
+description = "Toxic text detection. Pet project to learn the basics of data science."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.115.11",
+    "fireducks>=1.2.5",
+    "matplotlib>=3.10.1",
+    "nltk>=3.9.1",
+    "numpy>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "uvicorn>=0.34.0",
+]
