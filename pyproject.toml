@@ -1,7 +1,7 @@
 [project]
-name = "Toxic text detection"
+name = "toxic-text-detection"
 version = "0.1.0"
-description = "Toxic text detection. Pet project to learn the basics of data science."
+description = "Toxic text detection. This is a pet project to learn the basics of machine learning."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
