@@ -1,5 +1,5 @@
 [project]
-name = "text-fine-tuning"
+name = "Toxic text detection"
 version = "0.1.0"
 description = "Toxic text detection. Pet project to learn the basics of data science."
 readme = "README.md"
