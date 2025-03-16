@@ -30,6 +30,7 @@ This is a pet project to learn the basics of machine learning.
 ## Metrics
 Below is the Precision-Recall curve generated based on the metrics of the trained model:
 ![Precision-Recall curve](screenshots/precreccurve.png)
+
 The Precision-Recall curve presented above is plotted using the dataset retrieved from [Kaggle's "Jigsaw Toxic Comment Classification Challenge" (train.csv)](https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge?select=train.csv). The curve gives a graphical illustration of the precision-recall trade-off for various threshold values of our model for detecting toxic text.
 Key Observations:
 
