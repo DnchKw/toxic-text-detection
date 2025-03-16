@@ -1,5 +1,3 @@
-<div align="center">
-
 # Toxic Text Detection
 
 This is a pet project to learn the basics of machine learning.
@@ -29,5 +27,4 @@ This is a pet project to learn the basics of machine learning.
     ```
 3. Go to browser and open `localhost:8000/`
 
-</div>
 
