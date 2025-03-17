@@ -20,9 +20,9 @@ document.getElementById("predictButton").addEventListener("click", async () => {
 		}
 
 		const prediction = await response.text();
-		if (String(prediction).trim() == '"1"') {
+		if (String(prediction).trim() == "1") {
 			resultElement.textContent = "The text is toxic.";
-		} else if (prediction.trim() == '"0"') {
+		} else if (prediction.trim() == "0") {
 			resultElement.textContent = "The text is not toxic.";
 		}
 	} catch (error) {

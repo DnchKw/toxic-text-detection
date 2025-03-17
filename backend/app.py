@@ -27,5 +27,5 @@ def read_index():
 
 @app.get('/predict/{text}')
 def model_predict(text: str):
-    prediction = str(model.predict([text])[0])
-    return prediction
+
+    return model.predict([text])[0]
