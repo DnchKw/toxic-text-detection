@@ -23,7 +23,7 @@ This is a pet project to learn the basics of machine learning.
     ```
 2. Run `main.py`
     ```bash
-    uv run main.py
+    $ uv run main.py
     ```
 3. Go to browser and open `localhost:8000/`
 
